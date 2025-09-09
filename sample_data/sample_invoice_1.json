@@ -1,0 +1,31 @@
+{
+  "invoice_number": "INV-2024-001",
+  "vendor_name": "Office Supplies Co",
+  "vendor_address": "123 Business St, City, State 12345",
+  "amount": 150.00,
+  "currency": "USD",
+  "tax_amount": 12.00,
+  "total_amount": 162.00,
+  "date": "2024-01-15",
+  "description": "Office supplies for Q1 2024",
+  "category": "office",
+  "line_items": [
+    {
+      "quantity": 10,
+      "description": "Notebooks - 50 pages",
+      "amount": 50.00
+    },
+    {
+      "quantity": 5,
+      "description": "Pen sets - Blue ink",
+      "amount": 25.00
+    },
+    {
+      "quantity": 2,
+      "description": "Staplers - Heavy duty",
+      "amount": 75.00
+    }
+  ],
+  "payment_method": "Credit Card",
+  "notes": "Regular monthly office supplies order"
+}

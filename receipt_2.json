@@ -1,0 +1,21 @@
+{
+  "receipt_number": "RCP-20240101-0002",
+  "vendor_name": "Gas Station XYZ",
+  "vendor_address": "456 Fuel Avenue, City, State 67890",
+  "amount": 45.20,
+  "currency": "USD",
+  "tax_amount": 3.62,
+  "total_amount": 48.82,
+  "date": "2024-01-01",
+  "description": "Business travel fuel",
+  "category": "travel",
+  "line_items": [
+    {
+      "quantity": 1,
+      "description": "Gasoline - 12.5 gallons",
+      "amount": 45.20
+    }
+  ],
+  "payment_method": "Credit Card",
+  "notes": "Travel to client site"
+}

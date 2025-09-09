@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-2024-003",
+  "vendor_name": "Tech Solutions Inc",
+  "vendor_address": "789 Innovation Ave, Tech City, TC 54321",
+  "amount": 2500.00,
+  "currency": "USD",
+  "tax_amount": 200.00,
+  "total_amount": 2700.00,
+  "date": "2024-01-20",
+  "description": "Software license renewal - Annual subscription",
+  "category": "software",
+  "line_items": [
+    {
+      "quantity": 1,
+      "description": "Enterprise Software License - 1 Year",
+      "amount": 2500.00
+    }
+  ],
+  "payment_method": "Bank Transfer",
+  "notes": "Annual software license renewal for development team"
+}
